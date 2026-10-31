@@ -1,0 +1,1 @@
+{"framework":null,"buildCommand":"npm run build","outputDirectory":"dist","rewrites":[{"source":"/about","destination":"/index.html"},{"source":"/performances","destination":"/index.html"},{"source":"/education","destination":"/index.html"},{"source":"/gallery","destination":"/index.html"},{"source":"/join","destination":"/index.html"}]}
